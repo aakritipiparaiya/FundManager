@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager", "FundManager\FundManager.csproj", "{1E95D46C-FF7F-48AE-B0D9-1D13532C8EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManagerTest", "FundManagerTest\FundManagerTest.csproj", "{A2E45CCA-C4D0-4DAD-A675-173554375711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E95D46C-FF7F-48AE-B0D9-1D13532C8EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E95D46C-FF7F-48AE-B0D9-1D13532C8EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E95D46C-FF7F-48AE-B0D9-1D13532C8EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E95D46C-FF7F-48AE-B0D9-1D13532C8EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E45CCA-C4D0-4DAD-A675-173554375711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E45CCA-C4D0-4DAD-A675-173554375711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E45CCA-C4D0-4DAD-A675-173554375711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E45CCA-C4D0-4DAD-A675-173554375711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

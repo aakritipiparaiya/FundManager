@@ -1,0 +1,16 @@
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\obj\Debug\FundManagerTest.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\bin\Debug\FundManagerTest.dll
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\bin\Debug\FundManagerTest.pdb
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\bin\Debug\FundManager.exe
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\bin\Debug\FundManager.pdb
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\obj\Debug\FundManagerTest.dll
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\obj\Debug\FundManagerTest.pdb
+C:\Users\Aakriti Gupta\Desktop\UBS\FundManager\FundManagerTest\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\bin\Debug\FundManagerTest.dll
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\bin\Debug\FundManagerTest.pdb
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\bin\Debug\FundManager.exe
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\bin\Debug\FundManager.pdb
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\obj\Debug\FundManagerTest.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\obj\Debug\FundManagerTest.dll
+C:\Users\Aakriti Gupta\Documents\GitHub\FundManager\FundManager\FundManagerTest\obj\Debug\FundManagerTest.pdb
